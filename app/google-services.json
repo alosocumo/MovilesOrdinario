@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692839892642",
+    "firebase_url": "https://tercerparcial-589c0.firebaseio.com",
+    "project_id": "tercerparcial-589c0",
+    "storage_bucket": "tercerparcial-589c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692839892642:android:21a6119c18d39890",
+        "android_client_info": {
+          "package_name": "app.ulsa.com.aplicacion_tercer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692839892642-0n5j0dgmc3299v0f3cptf9sgvk1o1fs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ulsa.com.aplicacion_tercer",
+            "certificate_hash": "3d62eacfefcba23ea4fd24431777b6e430e934e0"
+          }
+        },
+        {
+          "client_id": "692839892642-7kitru0sdsagm98399sk8a8hbp07a4f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQB1maKR_ilXGJxpqP054UQIUH9J9BPDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692839892642-7kitru0sdsagm98399sk8a8hbp07a4f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+    <explode
+        android:duration="5000"/>
+
+
+    <item name="android:windowEnterTransition">@transition/explode_transition</item>
+    <item name="android:windowExitTransition">@transition/explode_transition</item>
+
+    <!-- Estados Reingreso-Retorno  -->
+    <item name="android:windowReenterTransition">@transition/slide_transition</item>
+    <item name="android:windowReturnTransition">@transition/slide_transition</item>
+
+</transitionSet>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+      <item
+            android:id="@+id/comida"
+            android:icon="@mipmap/comid"
+            android:title="Comida" />
+        <item
+            android:id="@+id/bebida"
+            android:icon="@mipmap/bebidas"
+            android:title="Bebida" />
+        <item
+            android:id="@+id/dulce"
+            android:icon="@mipmap/antojitos"
+            android:title="Dulces regionales" />
+        <item
+            android:id="@+id/artesania"
+            android:icon="@mipmap/artesania"
+            android:title="Artesanias" />
+        <item
+            android:id="@+id/mapa"
+            android:icon="@mipmap/ic_map"
+            android:title="Mapa" />
+        <item
+            android:id="@+id/evento"
+            android:icon="@mipmap/evento"
+            android:title="Evento" />
+
+
+    </group>
+
+
+
+</menu>
